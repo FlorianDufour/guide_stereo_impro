@@ -1,4 +1,4 @@
-# Lieux Chevaleresques – Décors pour vos improvisations
+# Introduction
 
 Les lieux sont le cadre de vos aventures. Ils transportent vos spectateurs dans un univers vivant et captivant. Dans cette section, vous découvrirez une variété de décors emblématiques, allant du majestueux au mystérieux, pour poser le décor de vos scènes d’improvisation.
 
