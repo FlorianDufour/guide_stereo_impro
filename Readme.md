@@ -10,7 +10,7 @@ Ce guide vous propose de jouer avec les stéréotypes de l'univers de la chevale
 
 ## Contributeurs
 
-* Caroline XXXX
+* Caroline Clavel
 * Florian Dufour
 
 ## Licence
