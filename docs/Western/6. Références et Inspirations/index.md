@@ -14,8 +14,8 @@ Cette section rassemble des ressources pour approfondir vos connaissances sur le
 
 ### Poésie et chansons
 
-- **Cowboy Poetry** - Des poèmes qui racontent la vie des cowboys, souvent récités lors de festivals de poésie cowboy.
-- **Chansons de cowboys** - Des chansons traditionnelles comme *Home on the Range* et *Streets of Laredo* qui évoquent la vie dans l'Ouest.
+- **Cowboy Poetry** - Des poèmes qui racontent la vie des cowboys, souvent récités lors de festivals de poésie cowboy. Vous pouvez en trouver [ici](https://khamush.com/cowboy-poems/)
+- **Chansons de cowboys** - Des chansons traditionnelles comme *Home on the Range* et *Streets of Laredo* qui évoquent la vie dans l'Ouest. Ecoutez [ici](https://the-western-shop.com/blogs/blog-du-western/musiques-de-western).
 
 !!! tip "Astuce"
     Ces œuvres peuvent inspirer directement des quêtes ou des dialogues au style authentique.
@@ -60,8 +60,8 @@ Cette section rassemble des ressources pour approfondir vos connaissances sur le
     - Une collection riche en documents et ressources historiques.
 - **The Wild West Podcast** - [https://wildwestpodcast.buzzsprout.com/](https://wildwestpodcast.buzzsprout.com/)
     - Un excellent podcast pour en apprendre davantage sur l'Ouest américain.
-- **Western Writers of America** - [https://westernwriters.org/](https://westernwriters.org/)
-    - Articles et ressources variés sur le genre western.
+- **L’Ouest américain photographié par Timothy O’Sullivan il y a 150 ans** - [https://phototrend.fr/2012/06/louest-americain-photographie-par-timothy-osullivan-il-y-a-150-ans/](https://phototrend.fr/2012/06/louest-americain-photographie-par-timothy-osullivan-il-y-a-150-ans//)
+    - Photographies variés sur le vrai western.
 
 !!! tip "Astuce"
     Consultez ces sites pour étoffer vos connaissances et ajouter des détails authentiques à vos improvisations.
