@@ -9,6 +9,8 @@ theme:
   palette:
    primary: teal
    accent: amber
+  features:
+    - content.footnote.tooltips
 
 markdown_extensions:
   - admonition
