@@ -21,7 +21,7 @@ Pour sortir des sentiers battus, voici des lieux plus originaux :
 
 - **Port ou marché maritime** : Un lieu grouillant de vie, d’échanges, et de récits venus de terres lointaines.
 - **Abbaye ou monastère** : Havre de paix ou lieu de mystères cachés ; idéal pour des scènes contemplatives ou énigmatiques.
-- **Caravansérail** : Point de rencontre des voyageurs, riche en histoires d’aventures et en intrigues commerciales.
+- **Caravansérail[^1]** : Point de rencontre des voyageurs, riche en histoires d’aventures et en intrigues commerciales.
 - **Île isolée** : Un endroit coupé du monde, où le danger peut surgir de nulle part.
 - **Chemin des pèlerins** : Une route parsemée de rencontres, d’épreuves spirituelles et de moments de camaraderie.
 
@@ -40,3 +40,5 @@ Laissez votre créativité s’envoler avec des décors fantastiques :
 
 !!! tip
     Mêlez ces lieux à vos personnages fantastiques pour des scènes mémorables.
+
+[^1]: Bâtiment où les caravenes de marchands, les pélerins et héros font des haltes. [wiki](https://fr.wikipedia.org/wiki/Caravans%C3%A9rail)
