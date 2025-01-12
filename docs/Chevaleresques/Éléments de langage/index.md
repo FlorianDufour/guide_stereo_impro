@@ -40,8 +40,9 @@ Les paysans parlent simplement, souvent avec des expressions liées à leur quot
 
 Les héros, qu’ils soient chevaliers ou bardes, aiment les discours grandiloquents. Ils utilisent des métaphores épiques et des exclamations passionnées.  
 
-**Exemples de phrases :**  
-- *"Le jour est venu où l’ombre reculera devant la lumière !"*  
+**Exemples de phrases :**
+
+- *"Le jour est venu où l’ombre reculera devant la lumière !"*
 - *"Jamais l’épée de ce chevalier ne faiblira devant l’injustice !"*  
 - *"L’honneur guide ma lame ; la justice, mon cœur !"*  
 
