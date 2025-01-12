@@ -5,6 +5,8 @@ Les lieux sont le cadre de vos aventures. Ils transportent vos spectateurs dans 
 !!! tip
     Combinez plusieurs lieux pour des transitions surprenantes ou des rebondissements inattendus (ex. : un château abritant une crypte maudite).
 
+---
+
 ## Les lieux emblématiques
 
 Voici les grands classiques de l’univers chevaleresque :
