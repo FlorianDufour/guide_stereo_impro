@@ -27,3 +27,16 @@ Pour sortir des sentiers battus, voici des lieux plus originaux :
 
 !!! tip
     Ces lieux peuvent être placés dans des environnements variés (déserts, montagnes, ou rives).
+
+## Lieux fantastiques et oniriques
+
+Laissez votre créativité s’envoler avec des décors fantastiques :
+
+- **Tour du sorcier** : Isolée et menaçante, cette tour regorge de savoirs interdits et de dangers magiques.
+- **Lac maudit** : Une étendue d’eau silencieuse, hantée par des esprits ou abritant un trésor caché.
+- **Royaume souterrain** : Caverne peuplée de créatures étranges, de mineurs ou de secrets anciens.
+- **Pont suspendu entre deux mondes** : Une passerelle entre le réel et l’imaginaire, où chaque pas est un défi.
+- **Jardin enchanté** : Un lieu magnifique mais dangereux, où tout semble vivant (et parfois hostile).
+
+!!! tip
+    Mêlez ces lieux à vos personnages fantastiques pour des scènes mémorables.
