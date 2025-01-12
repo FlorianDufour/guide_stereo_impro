@@ -2,6 +2,8 @@
 
 Bienvenue dans cet univers où l’épique côtoie le burlesque, et où chaque personnage, lieu ou quête peut devenir une aventure inoubliable. Ce guide est conçu pour les troupes d’improvisation qui souhaitent explorer l’univers de la chevalerie, en jouant avec ses stéréotypes emblématiques.
 
+---
+
 ## Objectifs du guide
 
 Ce guide a été conçu pour :
